@@ -1,4 +1,4 @@
-FROM wking/gentoo
+FROM eiel/gentoo
 MAINTAINER Tomohiko Himura <eiel.hal@gmail.com>
 
 WORKDIR /usr
